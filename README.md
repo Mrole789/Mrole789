@@ -10,7 +10,7 @@ Hello, I'm Chima Kennedy Elorm and this is my personal repository.
 - 🔍 I'm actively looking for internships in the IT field.
 
 ## Connect with me
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/kennedy-chima-9b53032b4
 - Portfolio:
 - Telegram:
 

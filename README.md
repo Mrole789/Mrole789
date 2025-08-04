@@ -12,6 +12,5 @@ Hello, I'm Chima Kennedy Elorm and this is my personal repository.
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/kennedy-chima-9b53032b4
 - Portfolio:
-- Telegram:
 
   ⭐ Feel free to explore, contribute and get in touch!

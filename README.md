@@ -4,7 +4,6 @@ Hello, I'm Chima Kennedy Elorm and this is my personal repository.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Web dev and Java.
 - 👯 I’m looking to collaborate on open-source projects, hackathons and anything innovative.
-- 📚 Ask me about why Python is the best programming language.
 - 🎯 Aspiring Senior Python Dev specializing in Cybersecurity.
 - 🔍 I'm actively looking for internship roles in the IT field.
 
